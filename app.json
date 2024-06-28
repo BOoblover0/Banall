@@ -5,7 +5,7 @@
     "repository": "https://github.com/ITZ-ZAID/Banall",
   "stack": "container",
     "env": {
-        "TELEGRAM_TOKEN": {7209573172:AAGTNEZaVVe5Jw5uZed9LsgJsvjn-vyZHCs
+        "TELEGRAM_TOKEN": {
             "description": "Bot Token Else leave blank",
             "required": true
         },
@@ -14,12 +14,12 @@
             "required": false,
             "value": ""
         },
-        "TELEGRAM_APP_HASH": {b23507de0081e14e3f32d5cca6ce09a8
+        "TELEGRAM_APP_HASH": {
             "description": "Fill Api Hash from telegram.prg",
             "required": true,
             "value": ""
         }
-        "TELEGRAM_APP_ID": {23805382
+        "TELEGRAM_APP_ID": {
             "description": "Fill Api iD from telegram.prg",
             "required": true,
             "value": ""
